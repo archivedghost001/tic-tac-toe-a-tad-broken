@@ -71,3 +71,7 @@ def play_game():
             break
 
         player = 3 - player  # switch player (1 -> 2 and 2 -> 1)
+
+
+if __name__ == "__main__":
+    play_game()
